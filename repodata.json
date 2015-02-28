@@ -3,7 +3,7 @@
     "Name":"systemjobs",
     "Description":"Plugin to view system jobs.",
     "Url":"https://github.com/mclarkson/obdi-core-systemjobs.git",
-    "Depends":{},
+    "Depends":[{}],
     "Versions":[
       {
         "Version":"0.1.3",
