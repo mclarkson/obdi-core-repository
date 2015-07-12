@@ -8,4 +8,4 @@ Further documentation is available from the 'view' links below.
 ## Contains
 |        Name          |                     Description                                  |        URL              |
 |----------------------|------------------------------------------------------------------|-------------------------|
-|obdi-core-systemjobs  |  View and manage system jobs, scripts that have finished or are currently running.  | [view](https://github.com/mclarkson/obdi-core-systemjobs) |
+| systemjobs  |  View and manage system jobs, scripts that have finished or are currently running.  | [view](https://github.com/mclarkson/obdi-core-systemjobs) |
