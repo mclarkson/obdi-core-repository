@@ -1,0 +1,6 @@
+{
+  "name": "Obdi-core-repository",
+  "tagline": "Repository metadata store for Obdi system plugins.",
+  "body": "# obdi-core-repository\r\nRepository metadata store for Obdi system plugins.\r\n\r\nAdd `https://github.com/mclarkson/obdi-core-repository.git` to Repository URLs in the Obdi Admin interface.\r\n\r\nFurther documentation is available from the 'view' links below.\r\n\r\n## Contains\r\n|        Name          |                     Description                                  |        URL              |\r\n|----------------------|------------------------------------------------------------------|-------------------------|\r\n| systemjobs  |  View and manage system jobs, scripts that have finished or are currently running.  | [view](https://github.com/mclarkson/obdi-core-systemjobs) |\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
